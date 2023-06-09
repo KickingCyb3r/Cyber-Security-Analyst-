@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jarius Glover! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a 
+<h3>Hi, I'm Jarius Glover! <br/><a href="https://github.com/joshmadakor1"></a>, <a 
 href="https://www.linkedin.com/in/jarius-g-299730aa/">Cybersecurity Professional</a>, <a
 href="https://www.youtube.com/watch?v=9vJMMbkgN9Q&t=112s">YouTuber</a></h1>
 
